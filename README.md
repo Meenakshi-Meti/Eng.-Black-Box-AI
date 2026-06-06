@@ -459,7 +459,7 @@ Provides:
 
 ---
 
-# 🚀 Future Roadmap
+# Future Roadmap
 
 - ML-based Risk Prediction
 - Automatic Rollback Suggestions
